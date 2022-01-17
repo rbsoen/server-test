@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "./Templates/",
+	"./Config/",
+    "./Controllers/",
+    "./Lib/",
+    "./Data/",
+    "index.js"
+  ],
+  "ext": "eta, js, json"
+}

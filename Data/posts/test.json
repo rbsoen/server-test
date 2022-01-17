@@ -1,0 +1,7 @@
+{
+  "title": "Cara Merampingkan Folder node_modules",
+  "image": "cat.jpg",
+  "image_description": "Kucing gajelas",
+  "timestamp": "2021-11-11T14:35:00+07:00",
+  "content": "## Simpel aja.\n\nJalankan `npm i --production` ketimbang perintah biasanya."
+}

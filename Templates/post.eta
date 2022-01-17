@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <header>
+      <h1>Site title</h1>
+    </header>
+    <section>
+      <h2><%= it.title %></h2>
+      <img src="<%= it.image %>" alt="<%= it.image_description %>">
+      <time datetime="<%= it.timestamp %>"><%= it.timestamp %></time>
+      <p>
+        <%~ it.content %>
+      </p>
+    </section>
+  </body>
+</html>
